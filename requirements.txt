@@ -1,0 +1,8 @@
+python-libnmap==0.7.2
+redis
+sanic
+Sanic-Cors
+sanic-openapi
+stix2
+graypy
+apscheduler

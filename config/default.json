@@ -1,0 +1,16 @@
+{
+  "DEV": {
+    "redis_url": "10.0.1.220",
+    "redis_port": 6379,
+    "logger_url": "10.0.1.220",
+    "logger_port": 12201,
+    "logger_protocol": "http"
+  },
+  "PROD": {
+    "redis_url": "127.0.0.1",
+    "redis_port": 6379,
+    "logger_url": "127.0.0.1",
+    "logger_port": 12201,
+    "logger_protocol": "http"
+  }
+}
